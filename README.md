@@ -18,11 +18,11 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Estoy trabajando en mi **kit de herramientas de ciberseguridad**
-- 🌱 Aprendiendo seguridad informática, scripting y bases de datos
-- 👯 Me gustaría colaborar en proyectos **open source**
-- 💬 Pregúntame lo que quieras sobre **Python, Bash y PostgreSQL**
-- 📫 Contacto: **fazzztos11@gmail.com**
+- Estoy trabajando en mi **kit de herramientas de ciberseguridad**
+- Aprendiendo seguridad informática, scripting y bases de datos
+- Me gustaría colaborar en proyectos **open source**
+- Pregúntame lo que quieras sobre **Python, Bash y PostgreSQL**
+- Contacto: **fazzztos11@gmail.com**
 
 ---
 
