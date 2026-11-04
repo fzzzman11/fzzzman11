@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=fzzzman11&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Programación%20%7C%20Ciberseguridad&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aprendiendo+ciberseguridad;Programando+en+Python+y+Bash;Creando+mis+propias+herramientas;Nunca+paro+de+aprender" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aprendiendo+ciberseguridad;Es+un+lindo+dia+para+programar;Programando+en+Python+y+Bash;Nunca+paro+de+aprender" />
+
+<br>
+
+<img src="sans.gif" width="250" />
 
 <br><br>
 
